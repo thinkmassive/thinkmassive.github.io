@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome to ThinkMassive.Org
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Here are my posts:
+Links above to check out my projects, posts below (nothing here yet)...
+
 
 <ul class="posts">
   {% for post in site.posts %}
