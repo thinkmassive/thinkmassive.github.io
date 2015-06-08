@@ -2,7 +2,7 @@
 layout: post
 category : projects
 tagline: "Boomboxen prototype"
-tags : [hardware, electronics, woodworking, music, audio]
+tags : [hardware, electronics, power, 12V, 3D, tinkercad]
 ---
 {% include JB/setup %}
 
