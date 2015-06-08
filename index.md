@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome to ThinkMassive.Org
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
