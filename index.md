@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Links above to check out my projects, posts below (nothing here yet)...
+Use the menu above or see all posts below.
 
 
 <ul class="posts">
