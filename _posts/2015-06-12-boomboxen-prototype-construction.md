@@ -13,7 +13,9 @@ I'm surprised how long a single 5Ah battery lasts with the class A/B amp, and th
 
 The enclosure turned out a little less clean than I was hoping but it still serves its purpose, and I like the way it looks. I'm debating whether to bevel/round the edges and attach corner protectors.
 
-## Construction Photos
+## Construction Gallery
+Check out the gallery for photos of circuit planning, enclosure construction, and result.
+
 <iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/q6fqA/embed"></iframe>
 
 ## Up next
