@@ -7,7 +7,7 @@ tags : [hardware, electronics, woodworking, music, audio]
 {% include JB/setup %}
 
 
-Last weeekend I assembled a working prototype, and it's been used a few hours at a time in various settings since. The sound is impressive, especially at moderate volume. There's some background noise that I'm still trying to track down, hopefully just the low quality amplifier. Originally I planned to have a USB outlet in parallel with the amp, but the interference is much worse with both audio and USB power connected to the source, so I'll need a workaround.
+Last weeekend I assembled a working prototype based on the [concept I drew up](http://www.thinkmassive.org/projects/2015/06/08/boomboxen-prototype-concepting/), and it's been used a few hours at a time in various settings since. The sound is impressive, especially at moderate volume. There's some background noise that I'm still trying to track down, hopefully just the low quality amplifier. Originally I planned to have a USB outlet in parallel with the amp, but the interference is much worse with both audio and USB power connected to the source, so I'll need a workaround.
 
 I'm surprised how long a single 5Ah battery lasts with the class A/B amp, and the class D should improve it significantly. For that the batteries will be in series to create 24V. Until then I had planned to run the batteries in parallel, but I might keep it simpler until then and just switch between the batteries, which I'll describe more below. This week I'll take some measurements over time to generate a baseline power profile.
 
