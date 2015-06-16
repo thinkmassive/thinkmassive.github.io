@@ -32,3 +32,5 @@ In the short term I'll expose the following so the back panel can be attached:
  - DPDT: Aux power (battery 1/2)
 
 The Aux switch will determine which battery is connected to the 12V & 5V sockets, and an external 12V source can be connected for charging the boombox. Once I have the class D amp I plan to make a control panel that slides into a cutout on top. That will provide a nice volume, rather than always running at full throttle and depending on the source to regulate volume to a tolerable level. It's going to need some kind of handle too.
+
+Continue browsing with [Part 2](/projects/2015/06/15/boomboxen-prototype-construction-pt-2/)
