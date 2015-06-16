@@ -6,7 +6,7 @@ tags : [hardware, electronics, woodworking, music, audio]
 ---
 {% include JB/setup %}
 
-Previously I [assmebled the components](/projects/2015/06/12/boomboxen-prototype-construction-pt-1/) to create a portable soundsystem. This weekend I completed the setup with a control panel, electrical controls, and a carry handle. Finished weight is 22 lbs 11 oz.
+Previously I [assmebled the components](/projects/2015/06/12/boomboxen-prototype-construction-pt-1/) to create a portable soundsystem. This weekend I completed the setup with a control panel, electrical, and carry handle. Finished weight is 22 lbs 11 oz.
 
 ## Control panel
 The control panel is thick plexiglass with cutouts for switches, power outlets, fuses, and a voltage display. A slot was cut into a recess made in the top of the enclosure, and another slot in the back panel locks the control panel in place. This was more difficult than I anticpated, even with the RotoZip, because the corners are inaccessible with the routing attachment in place. Those areas were done freehand.
