@@ -42,4 +42,5 @@ Check out the gallery for photos of control panel, electrical, finished enclosur
 Beveling the edges and re-doing the battery wiring. 
 
 ## Video
+Recorded through my phone, not the best mic but you get the idea.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8QY9SiyMuSo" frameborder="0" allowfullscreen></iframe>
