@@ -6,11 +6,11 @@ tags : [intro, resume, cv, career]
 ---
 {% include JB/setup %}
 
-Quick link to my resume: <a href="http://bit.ly/amiller-resume">Alex Miller resume, Aug 2016 (PDF)</a>
+Quick link to my resume: <a href="/resume-amiller_2016.pdf">Alex Miller resume, Aug 2016</a>
 
 ## Welcome to the Hotel California
 
-In mid-July I departed from Durham, NC with the intention of making a two-week <a href="/meta/2016/08/01/cross-country-journey">journey across the country</a> to spend a month working from my employer's HQ (Santa Clara), followed by a two-week trip returning to NC. Through a surprising sequence of events, inconceivable a couple short weeks ago, I now have a short-term lease in Cupertino and am searching for my ideal Bay Area startup, where I can make an impact on the world.
+In mid-July I departed from Durham, NC with the intention of making a two-week <a href="/meta/2016/08/01/cross-country-journey">journey across the country</a> to spend a month working from my employer's HQ (Santa Clara), then returning to NC. Through a surprising sequence of events, inconceivable a couple short weeks ago, I now have a short-term lease in Cupertino and am searching for my ideal Bay Area startup, where I can make an impact on the world.
 
 ## Professional Growth
 
@@ -26,12 +26,12 @@ In late 2015 I was presented with an opportunity to lead an initiative to increa
 
 Some of the initiatives were transitioned to new owners, and I focused on filling a key role of the <a href="http://hortonworks.com/smart-sense">SmartSense</a> project, where I served as the feedback loop between Support and Engineering. I also evangelized the tool and provided training within Support. All of this was fulfilling, but I still yearned for the days of rapid development I experienced in the past.
 
-## Next Chapter
+## Tomorrow
 
-So here I am in Silicon Valley, searching for the first page of the next chapter in my professional life. I have a diverse background, including technical knowledge of most of the Hadoop ecosystem (<a href="http://hortonworks.com/products/data-center/hdp/">Hortonworks Data Platform</a>) and experience building the infrastructure for a hybrid cloud SaaS platform from the ground up. My skillset would be most useful at a startup where I can wear a variety of hats and be accompanied by colleagues with similar motivations to learn and share knowledge.
+So here I am in Silicon Valley, searching for the first page of my next chapter. I have a diverse background, including technical knowledge of most of the Hadoop ecosystem (<a href="http://hortonworks.com/products/data-center/hdp/">Hortonworks Data Platform</a>) and experience building the infrastructure for a hybrid cloud SaaS platform from the ground up. My skillset would be most useful at a startup where I can wear a variety of hats and be accompanied by colleagues who also have the <a href="http://www.feld.com/archives/2011/10/be-on-fire.html">burning desire</a> to build, learn, and share knowledge.
 
-If you (or someone you know) have a startup where I may fit in, feel free to take a look at <a href="http://bit.ly/amiller-resume">my resume</a> and <a href="mailto:alex@thinkmassive.org">reach out via email</a>.
+If you know of a startup where I may fit in, feel free to take a look at <a href="/resume-amiller_2016.pdf">my resume</a> and <a href="mailto:alex@thinkmassive.org">reach out via email</a>.
 
-PS: This website hasn't received the attention I intended. Please bear with me as I publish some posts that were sitting as half-written drafts, and add details about my software projects. I realize it would be ideal to have everything complete before I start my job search, but I've already started a few interviews and expect to make a decision by the end of September, so I'd rather publish this now and clean up as time permits.
+PS: This website hasn't received the attention I intended. Please bear with me as I document projects and publish posts that were sitting as drafts. It would be ideal to have everything complete before I start my job search, but I'm already into a few interviews and expect to make a decision by the end of September, so I'd rather publish this now and continue updating the site regularly.
 
 Thanks for reading!
