@@ -10,15 +10,7 @@ Quick link to my resume: <a href="http://bit.ly/amiller-resume">Alex Miller resu
 
 ## Welcome to the Hotel California
 
-In mid-July I ended my lease in Durham, NC, moved my belongings into a storage unit (spent a long weekend at <a href="http://transformus.com/">Transformus</a> in the middle of moving, 'cuz why not?), then departed with Pacman (my dog) in the Jeep (<a href="/meta/2016/07/15/adventure-trailer">adventure trailer</a> in tow) for a two-week <a href="/meta/2016/08/01/cross-country-journey">journey across the country</a>. My intention was to spend a month in the San Jose area followed by another two-week trip returning to NC, where I could finally find a house with a garage. We traveled during the days, camped at night, and met a few old friends along the way.
-
-Through a surprising sequence of events, inconceivable a couple short weeks ago, I now have a short-term lease in Cupertino and am searching for my ideal Bay Area startup, where I can make an impact on the world.
-
-Leading up to my departure I was asked, "any chance you'll move to Cali?" so many time it became frustrating.
-
-My boilerplate response: "great place to visit, no intention of staying."
-
-Yet here I am...
+In mid-July I departed from Durham, NC with the intention of making a two-week <a href="/meta/2016/08/01/cross-country-journey">journey across the country</a> to spend a month working from my employer's HQ (Santa Clara), followed by a two-week trip returning to NC. Through a surprising sequence of events, inconceivable a couple short weeks ago, I now have a short-term lease in Cupertino and am searching for my ideal Bay Area startup, where I can make an impact on the world.
 
 ## Professional Growth
 
