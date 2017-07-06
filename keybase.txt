@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/thinkmassive
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thinkmassive.org
+  * I am thinkmassive (https://keybase.io/thinkmassive) on keybase.
+  * I have a public key with fingerprint 0563 EF72 A1D1 3909 8F30  F943 7A50 5CDD A81E 83D6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015d1d086f77d3ca105f7de620742ef57c424301572e16f3c40614588c482687f00a",
+            "fingerprint": "0563ef72a1d139098f30f9437a505cdda81e83d6",
+            "host": "keybase.io",
+            "key_id": "7a505cdda81e83d6",
+            "kid": "01015d1d086f77d3ca105f7de620742ef57c424301572e16f3c40614588c482687f00a",
+            "uid": "2fc60f6dada5e5b5ffbd7aad0cbfe919",
+            "username": "thinkmassive"
+        },
+        "service": {
+            "hostname": "thinkmassive.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487046041,
+    "expire_in": 157680000,
+    "prev": "2122ac6e25617e200c2561bd7d985712834da3f3279f04c35ce1754c02be5793",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUltIFUEYPt7KS2klVpJZbBQRYjN7m91TRkRJgV0kiC7aYXZn9jgcz9nTnvWk
+md00oSjrrYgIK8gsQsqHgi4UliAKkphvBQaBhhGaSeShmpXoycfmZS7/933zfT//
+5fkpvvSkY3sq3t8tbBxK6h01fPtvnb1XLxg2qRP89UKIzmy0mtCYGwgxIvgFAAFU
+CCRAUy2EiGRiCBQLEaqKAMkitRRkyqIscRQSKVQtyZSBCmVF00xZE1UNWQBgoUiw
+WCRInajDIq4nq6gStZCIIYGSDnTNkoClyxLCClBMQrAGqSYRlROr7JjH4OYMHKPF
+zOZv/BKYsTcL/j/7rpmREy1TBZZKMMEKVQzFsgyCMCbANCyqQ90DxqgTwWHK0W4V
+i4TCOBZjcSo0FAm8Emcm9ZrrpZkFVWw7Qa4RdWzXNu1qXq1y3ajfI7t1UQ99lBqB
+vzoBg0UIbycnxKkTY3ZE8EOONF3mCUNZQ0BWgQyLBFobZQ4NMA+hIFUDfHnf0DiX
+DIhQFLGpUlFRIaIiAKZ34smIrikIipokEyxZkoh0C8impJgUIkU2gWhQBemS4EU7
+ErEFv8Z94iDXjLFgBLs1Ds+deS6pINWXlO6bk5bsDZovM2PBv+k7Pvf3YXtz84ZX
+n1oHo6ueuU3TOb172evWdT87Wp5XNrNvzWHU9SFY23rm1E0WPilcWJ6RORIqPfFg
+Hy1ryZ+nVtbVTpbvWBwA7+KJio1X8zLGx5IfLU2Zevyx5krZ+SsHO9vyE4Vfs+60
+bZ96s7Dg1MTWs0OpJSz8tLzaWfKrZ7L0oTxsD+xsf3dSujl9Le/ARKJkd+WLRpT1
+VijsvP8h1Hc659BIcxopaEi/0aQPbtvu698Fb/d9buhetHqgK3dLVseyrCc9/Usz
+1xe/vN5+6WL2D+h+Gd8Mckb1iYxl7prUtfkdXWmJsfXZpbnnqtR6cdjNb9op1Cdw
+y4qVUvj7o+5NW/4A
+=prpi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thinkmassive
+
+==================================================================
+
