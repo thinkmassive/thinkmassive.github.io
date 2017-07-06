@@ -6,7 +6,7 @@ tags : [intro, resume, cv, career]
 ---
 {% include JB/setup %}
 
-Quick link to my resume: <a href="/resume-amiller_2016.pdf">Alex Miller resume, Aug 2016</a>
+Quick link to my resume: <a href="/resume-amiller.pdf">Alex Miller resume, Aug 2016</a>
 
 ## Welcome to the Hotel California
 
@@ -30,7 +30,7 @@ Some of the initiatives were transitioned to new owners, and I focused on fillin
 
 So here I am in Silicon Valley, searching for the first page of my next chapter. I have a diverse background, including technical knowledge of most of the Hadoop ecosystem (<a href="http://hortonworks.com/products/data-center/hdp/">Hortonworks Data Platform</a>) and experience building the infrastructure for a hybrid cloud SaaS platform from the ground up. My skillset would be most useful at a startup where I can wear a variety of hats and be accompanied by colleagues who also have the <a href="http://www.feld.com/archives/2011/10/be-on-fire.html">burning desire</a> to build, learn, and share knowledge.
 
-If you know of a startup where I may fit in, feel free to take a look at <a href="/resume-amiller_2016.pdf">my resume</a> and <a href="mailto:alex@thinkmassive.org">reach out via email</a>.
+If you know of a startup where I may fit in, feel free to take a look at <a href="/resume-amiller.pdf">my resume</a> and <a href="mailto:alex@thinkmassive.org">reach out via email</a>.
 
 PS: This website hasn't received the attention I intended. Please bear with me as I document projects and publish posts that were sitting as drafts. It would be ideal to have everything complete before I start my job search, but I'm already into a few interviews and expect to make a decision by the end of September, so I'd rather publish this now and continue updating the site regularly.
 
