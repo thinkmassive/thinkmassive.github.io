@@ -56,7 +56,7 @@ blueprint:
           min: 0.0
           max: 5.0
           step: 0.01
-  source_url: https://github.com/apollo1220/blueprints/blob/main/philips_zigbee_dial.yaml
+  source_url: https://github.com/thinkmassive/thinkmassive.github.io/blob/master/blueprints/tapdial.yaml
 mode: restart
 max_exceeded: silent
 variables:
